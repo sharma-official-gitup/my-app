@@ -99,7 +99,7 @@ function App() {
 
       <section id="contact">
         <h2>Contact Us</h2>
-        <h4>8220809016 FitZoneGym@gmail.com</h4>
+        <h4>82XXXXXX16 FitZoneGym@gmail.com</h4>
         <form onsubmit={validateForm}>
           <input type="text"
             id="name"
